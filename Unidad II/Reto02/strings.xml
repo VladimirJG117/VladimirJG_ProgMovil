@@ -1,0 +1,8 @@
+<resources>
+    <string name="accept_button">Aceptar</string>
+    <string name="user">Nombre(s)</string>
+    <string name="phone">Teléfono</string>
+    <string name="last_name">Apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="reto">Reto 02</string>
+</resources>
