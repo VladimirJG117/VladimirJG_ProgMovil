@@ -1,4 +1,3 @@
-
 package com.example.inventory
 
 import android.os.Bundle
